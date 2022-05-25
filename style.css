@@ -5,7 +5,15 @@ h3{
 }
 p{
     text-align: justify;
+    margin: 50px 90px;
+
 }
 body{
-    background-color: blue;
+    background-color: white;
+}
+img{
+    width: 200px;
+    height: 200;
+    border: 2px dashed green;
+    border-radius: 50%;
 }
