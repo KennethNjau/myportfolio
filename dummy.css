@@ -1,0 +1,19 @@
+h3{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    text-align: justify;
+    margin: 0px 100px;
+
+}
+body{
+    background-color: white;
+}
+img{
+    width: 200px;
+    height: 200;
+    border: 2px dashed green;
+    border-radius: 50%;
+}
